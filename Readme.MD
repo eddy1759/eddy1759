@@ -17,7 +17,7 @@ I'm a Software Engineer, Content Creator, and a Data Analyst. I'm passionate abo
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer or Data Analyst (Intern or Junior level).
 - 📫 You can contact me by emailing edetasuquo23@gmail.com.
 
 ---
@@ -42,5 +42,4 @@ I'm a Software Engineer, Content Creator, and a Data Analyst. I'm passionate abo
 ---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=eddy1759&theme=dark&background=000000&show_icons=true&include_all_commits=true&hide_border=true" alt="Edet's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddy1759&langs_count=8&layout=compact&theme=dark&background=000000&hide_border=true" alt="Edet's GitHub stats" /> |
-
 | ------------- | ------------- |
