@@ -18,6 +18,7 @@ I'm a Software Engineer, Content Creator, and a Data Analyst. I'm passionate abo
 - 🌱 I’m currently learning JavaScript, Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer or Data Analyst (Intern or Junior level).
+- Read my articles in [Eddy's Space](https://eddy.hashnode.dev/) on Hashnode.
 - 📫 You can contact me by emailing edetasuquo23@gmail.com.
 
 ---
