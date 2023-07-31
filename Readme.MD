@@ -41,3 +41,6 @@ I'm a Software Engineer, Writer, and a Data Analyst. I'm passionate about sharin
 </div>  
 
 ---
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=eddy1759&theme=dark&background=000000&show_icons=true&include_all_commits=true&hide_border=true" alt="Edet's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddy1759&count_private=true&langs_count=14&layout=compact&theme=dark&background=000000&hide_border=true" alt="Edet's GitHub stats" /> |
+| ------------- | ------------- |
+
