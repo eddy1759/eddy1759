@@ -14,7 +14,7 @@ I'm a Software Engineer, Writer, and a Data Analyst. I'm passionate about sharin
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: I'm an Alumni of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Backend Software Engineer or Data Analyst (Intern or Junior level).
