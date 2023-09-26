@@ -19,7 +19,7 @@ I'm a Software Engineer, Writer, and a Data Analyst. I'm passionate about sharin
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Backend Software Engineer or Data Analyst (Intern or Junior level).
 - Read my articles in [Eddy's Space](https://eddy.hashnode.dev/) on Hashnode.
-- 📫 You can contact me by emailing edetasuquo23@gmail.com.
+- 📫 You can contact me by emailing eddy1759@gmail.com.
 
 ---
 
