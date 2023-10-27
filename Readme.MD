@@ -38,6 +38,9 @@ I'm a Software Engineer, Writer, and a Data Analyst. I'm passionate about sharin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="numpy" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="pandas" width="40" height="40"/>&nbsp;
 </div>  
+
+
 ---
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=eddy1759&show_icons=true&include_all_commits=true&theme=dark&background=000000&hide_border=true" alt="Edet's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddy1759&count_private=true&langs_count=14&layout=compact&theme=dark&background=000000&hide_border=true" alt="Edet's GitHub stats" /> |
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=eddy1759&show_icons=true&include_all_commits=true&theme=dark&background=000000&hide_border=true" alt="Edet's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddy1759&langs_count=14&layout=compact&theme=dark&background=000000&hide_border=true" alt="Edet's GitHub stats" /> |
 | ------------- | ------------- |
