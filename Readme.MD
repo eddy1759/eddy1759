@@ -9,14 +9,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-EdetAsuquo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edet-e-asuquo)](https://www.linkedin.com/in/edet-e-asuquo) [![Twitter Badge](https://img.shields.io/badge/-@eddyozone-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/eddyozone)](https://twitter.com/eddyozone) 
 
-I'm a Software Engineer, Writer, and a Data Analyst. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. 
+I'm a Software Engineer, Writer, and a Writer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. 
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 🌱 I’m currently learning JavaScript, Python and Devops.
+- 🌱 I’m currently learning Devops.
 - 😊 I’m looking for help with open source projects, hackathons, and opportunities.
-- 💼 Job interests: Backend Software Engineer.
+- 💼 Job interests: Backend Software Engineer and Technical Writing.
 - Read my articles in [Eddy's Space](https://eddy.hashnode.dev/) on Hashnode.
 - 📫 You can contact me by emailing eddy1759@gmail.com.
 
@@ -28,6 +28,7 @@ I'm a Software Engineer, Writer, and a Data Analyst. I'm passionate about sharin
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="postgre" "width"40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
