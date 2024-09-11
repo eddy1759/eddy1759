@@ -44,5 +44,5 @@ I'm a Software Engineer, Writer, and a Writer. I'm passionate about sharing know
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=eddy1759&show_icons=true&include_all_commits=true&theme=dark&background=000000&hide_border=true" alt="Edet's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddy1759&langs_count=14&layout=compact&theme=dark&background=000000&hide_border=true" alt="Edet's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=eddy1759&show_icons=true&include_all_commits=true&theme=dark&background=000000&hide_border=true" alt="Edet's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddy1759&langs_count=12&layout=compact&theme=dark&background=000000&hide_border=true" alt="Edet's GitHub stats" /> |
 | ------------- | ------------- |
