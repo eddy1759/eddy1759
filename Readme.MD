@@ -9,7 +9,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-EdetAsuquo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edet-e-asuquo)](https://www.linkedin.com/in/edet-e-asuquo) [![Twitter Badge](https://img.shields.io/badge/-@eddyozone-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/eddyozone)](https://twitter.com/eddyozone) 
 
-I'm a Software Engineer, Writer, and a Writer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. 
+I'm a Backend Software Engineer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. 
 
 **Here's a quick summary about me**:
 
