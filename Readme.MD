@@ -33,7 +33,7 @@ Its *Incident Memory* feature learns from your team’s past failures to deliver
 
 - ⚙️ **Backend-Heavy Full Stack Product Engineer** focused on building **scalable, cloud-native systems** and **AI-powered automation tools** that solve real business problems.  
 - 🧠 Skilled in **Node.js, TypeScript, NestJS, Express, Next.js, Tailwind CSS, PostgreSQL, Docker, AWS, Redis**, and **n8n**, with strong grounding in **DevOps practices, CI/CD, and infrastructure reliability**.  
-- 🚀 I’ve built and shipped production systems like **CryptoFlo (AI fintech insights app)**, **ShipGuard (eCommerce logistics automation)**, and **CrossSafe (pedestrian safety platform)** — all engineered for performance, maintainability, and scale.  
+- 🚀 I’ve built and shipped production systems across different domain like ecommerce, safety-tech, agrotech, dev-tool, edutech, web3 — all engineered for performance, maintainability, and scale.  
 - 🧩 Passionate about **developer productivity, distributed system design, and automation pipelines** that reduce friction and amplify impact.  
 - 🤝 Open to **collaborating on open-source projects** and **partnering with teams** building high-performance backend or infrastructure products.  
 - 📫 **Contact:** [edetasuquo23@gmail.com](mailto:edetasuquo23@gmail.com)  
