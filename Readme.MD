@@ -16,7 +16,7 @@ I'm passionate about building robust infrastructure, and creating tools that imp
 ### 🚀 Featured Project: Ship Guard
 
 <a href="https://shipguard.dev" target="_blank">
-  <img src="https://shipguard.dev/og-image.png" alt="Ship Guard OG Image" />
+  <img src="https://shipguard.dev/ship-guard.png" alt="Ship Guard OG Image" />
 </a>
 
 **Ship Guard** is a B2B SaaS platform that turns institutional knowledge into an active, automated safeguard. Its core "Incident Memory" feature learns from your team's past incidents to provide context-aware feedback on new pull requests, preventing repeat failures.
@@ -52,7 +52,7 @@ I'm passionate about building robust infrastructure, and creating tools that imp
     </td>
     <td align="center" width="96">
       <a href="#-my-tech-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="48" height="48" alt="NestJS" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="NestJS" />
       </a>
       <br>NestJS
     </td>
