@@ -25,7 +25,7 @@ I design, build, and deploy systems that are **secure, fault-tolerant, and autom
 Its *Incident Memory* feature learns from your team’s past failures to deliver **context-aware feedback** on new pull requests — preventing repeat issues before they merge.  
 
 **🔗 Live Site:** [shipguard.dev](https://shipguard.dev)  
-** Doc:** [docs.shipguard.dev](https://docs.shipguard.dev)
+**Doc:** [docs.shipguard.dev](https://docs.shipguard.dev)
 
 ---
 
