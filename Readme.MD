@@ -1,9 +1,11 @@
 
-# Hi, I'm Edet Emmanuel Asuquo 👋
+# 👋 Hi, I'm Edet Emmanuel Asuquo  
 
-I'm a full-stack software engineer specializing in building secure, scalable backend systems and developer tools. The creator of **Ship Guard**, an AI-powered code review assistant for GitHub designed to help teams stop shipping the same bugs twice.
+**Backend-Heavy Full Stack Product Engineer** building scalable, cloud-native systems and AI-powered developer tools.  
 
-I'm passionate about building robust infrastructure, and creating tools that improve life and aid workflow.
+Creator of **[Ship Guard](https://shipguard.dev)** — an AI-driven code review assistant for GitHub that helps engineering teams stop shipping the same bugs twice.  
+
+I design, build, and deploy systems that are **secure, fault-tolerant, and automation-first** — from fintech and infrastructure to developer productivity platforms.  
 
 <img src="https://komarev.com/ghpvc/?username=eddy1759&style=flat-square&color=blue" alt=""/>
 
@@ -13,145 +15,68 @@ I'm passionate about building robust infrastructure, and creating tools that imp
 
 ---
 
-### 🚀 Featured Project: Ship Guard
+### 🚀 Featured Project: Ship Guard  
 
 <a href="https://shipguard.dev" target="_blank">
   <img src="https://shipguard.dev/og-image.png" alt="Ship Guard OG Image" />
 </a>
 
-**Ship Guard** is a B2B SaaS platform that turns institutional knowledge into an active, automated safeguard. Its core "Incident Memory" feature learns from your team's past incidents to provide context-aware feedback on new pull requests, preventing repeat failures.
+**Ship Guard** is a B2B SaaS platform that transforms institutional knowledge into an **active engineering safeguard**.  
+Its *Incident Memory* feature learns from your team’s past failures to deliver **context-aware feedback** on new pull requests — preventing repeat issues before they merge.  
 
-* **Live Site:** [shipguard.dev](https://shipguard.dev)
-* **Tech Stack:** TypeScript, NestJS, React, Vite, PostgreSQL (Neon), Redis (Upstash), Prisma, BullMQ, OpenAI API, GitHub Apps, Polar, Railway, Cloudflare.
+**🔗 Live Site:** [shipguard.dev](https://shipguard.dev)  
+** Doc:** [docs.shipguard.dev](https://docs.shipguard.dev)
+
+---
+
+### 💡 About Me  
+
+- ⚙️ **Backend-Heavy Full Stack Product Engineer** focused on building **scalable, cloud-native systems** and **AI-powered automation tools** that solve real business problems.  
+- 🧠 Skilled in **Node.js, TypeScript, NestJS, Express, Next.js, Tailwind CSS, PostgreSQL, Docker, AWS, Redis**, and **n8n**, with strong grounding in **DevOps practices, CI/CD, and infrastructure reliability**.  
+- 🚀 I’ve built and shipped production systems like **CryptoFlo (AI fintech insights app)**, **ShipGuard (eCommerce logistics automation)**, and **CrossSafe (pedestrian safety platform)** — all engineered for performance, maintainability, and scale.  
+- 🧩 Passionate about **developer productivity, distributed system design, and automation pipelines** that reduce friction and amplify impact.  
+- 🤝 Open to **collaborating on open-source projects** and **partnering with teams** building high-performance backend or infrastructure products.  
+- 📫 **Contact:** [edetasuquo23@gmail.com](mailto:edetasuquo23@gmail.com)  
 
 ---
 
-### 💡 About Me
+### 🧰 Tech Stack & Tools  
 
--   🌱 I’m currently deepening my expertise in **DevOps**, cloud infrastructure, and building scalable systems.
--   🚀 I'm passionate about creating developer tools that are both powerful and intuitive.
--   🤝 Open to collaborating on innovative open-source projects and exploring new opportunities.
--   📫 How to reach me: **eddy1759@gmail.com**
+#### 💻 Languages & Frameworks  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+#### 🛠️ Databases & Caching  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+#### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+#### ⚙️ Tools & Workflow  
+![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-### 🛠️ My Tech Stack
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="NestJS" />
-      </a>
-      <br>NestJS
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="Express" />
-      </a>
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-     <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite" />
-      </a>
-      <br>Vite
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
-      </a>
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
-      </a>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="OpenAI" />
-      </a>
-      <br>OpenAI
-    </td>
-  </tr>
-   <tr>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" width="48" height="48" alt="Railway" />
-      </a>
-      <br>Railway
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" width="48" height="48" alt="Cloudflare" />
-      </a>
-      <br>Cloudflare
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-     <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-      </a>
-      <br>GitHub
-    </td>
-  </tr>
-</table>
+🔥 *Building scalable systems, automating workflows, and turning ideas into production-grade products.*
 ---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=eddy1759&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage" alt="Edet's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddy1759&langs_count=12&layout=compact&theme=dark&background=000000&hide_border=true" alt="Edet's GitHub stats" /> |
