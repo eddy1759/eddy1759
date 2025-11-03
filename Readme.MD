@@ -12,7 +12,7 @@ I design, build, and deploy systems that are **secure, fault-tolerant, and autom
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edet-e-asuquo)
 [![Twitter](https://img.shields.io/badge/-@eddyozone-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eddyozone)
 [![Personal Blog](https://img.shields.io/badge/-Personal-Blog-orange?style=for-the-badge&logo=hashnode&logoColor=white)](https://eddy.hashnode.dev/)
-[![Shipguard Blog](https://img.shields.io/badge/-Shipguard-Blog-green?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.shipguard.dev/)
+[![ShipGuard Blog](https://img.shields.io/badge/-Shipguard-Blog-green?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.shipguard.dev/)
 
 ---
 
