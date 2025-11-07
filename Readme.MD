@@ -27,6 +27,7 @@ Its *Incident Memory* feature learns from your team’s past failures to deliver
 
 **🔗 Live Site:** [shipguard.dev](https://shipguard.dev)  
 **Doc:** [docs.shipguard.dev](https://docs.shipguard.dev)
+**Blog:** [blog.shipguard.dev](https://blog.shipguard.dev)
 
 ---
 
