@@ -16,7 +16,9 @@ I design, build, and deploy systems that are **secure, fault-tolerant, and autom
 
 ---
 
-### 🚀 Featured Project: Ship Guard  
+### 🚀 Featured Projects 
+
+1. Ship Guard  
 
 <a href="https://shipguard.dev" target="_blank">
   <img src="https://shipguard.dev/og-image.png" alt="Ship Guard OG Image" />
@@ -29,6 +31,16 @@ Its *Incident Memory* feature learns from your team’s past failures to deliver
 **🔗 Doc:** [docs.shipguard.dev](https://docs.shipguard.dev)
 **🔗 Blog:** [blog.shipguard.dev](https://blog.shipguard.dev)
 
+
+2. Github Wrapped
+
+<a href="https://githubdevwrap.vercel.app" target="_blank">
+  <img src="https://githubdevwrap.vercel.app/og-image.png" alt="Github Wrap OG Image" />
+</a>
+**Github Wrapped** A year-in-review style for developers. Analyze your GitHub activity, visualize your coding habits, and get roasted by AI.
+
+**🔗 Live Site:** [Github Wrapped](https://githubdevwrap.vercel.app)
+**🔗 Repo Link:* [Repo](https://github.com/eddy1759/devwrapped)
 ---
 
 ### 💡 About Me  
