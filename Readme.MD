@@ -29,6 +29,7 @@ Its *Incident Memory* feature learns from your team’s past failures to deliver
 
 **🔗 Live Site:** [shipguard.dev](https://shipguard.dev)  
 **🔗 Doc:** [docs.shipguard.dev](https://docs.shipguard.dev)
+
 **🔗 Blog:** [blog.shipguard.dev](https://blog.shipguard.dev)
 
 
@@ -40,6 +41,7 @@ Its *Incident Memory* feature learns from your team’s past failures to deliver
 **Github Wrapped** A year-in-review style for developers. Analyze your GitHub activity, visualize your coding habits, and get roasted by AI.
 
 **🔗 Live Site:** [Github Wrapped](https://githubdevwrap.vercel.app)
+
 **🔗 Repo Link:* [Repo](https://github.com/eddy1759/devwrapped)
 ---
 
