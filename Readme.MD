@@ -1,59 +1,106 @@
+# 👋 Hi, I’m Edet Emmanuel Asuquo
 
-# 👋 Hi, I'm Edet Emmanuel Asuquo  
+**Backend-Heavy Full Stack Product Engineer**  
+I build **reliable, cloud-native systems** and **AI-powered developer tools** that scale in production — not just demos.
 
-**Backend-Heavy Full Stack Product Engineer** building scalable, cloud-native systems and AI-powered tools.  
+I specialize in turning complex engineering problems into **simple, resilient, automation-first products**, with a strong bias for:
+- system reliability
+- developer productivity
+- long-term maintainability
 
-I design, build, and deploy systems that are **secure, fault-tolerant, and automation-first** — from fintech and infrastructure to developer productivity platforms.  
-Open to collaborations, jobs and founding engineer roles.
+🚀 Open to **senior backend**, **founding engineer**, and **infrastructure-focused product roles**.
 
-<img src="https://komarev.com/ghpvc/?username=eddy1759&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=eddy1759&style=flat-square&color=blue" alt="profile views"/>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edet-e-asuquo)
-[![Twitter](https://img.shields.io/badge/-@eddyozone-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eddyozone)
-[![Personal Blog](https://img.shields.io/badge/Personal%20Blog-orange?style=for-the-badge&logo=hashnode&logoColor=white)](https://eddy.hashnode.dev/)
-[![Shipguard Blog](https://img.shields.io/badge/Shipguard%20Blog-green?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.shipguard.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edet-e-asuquo)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/eddyozone)
+[![Blog](https://img.shields.io/badge/Engineering%20Blog-F97316?style=for-the-badge&logo=hashnode&logoColor=white)](https://eddy.hashnode.dev/)
+[![Shipguard Blog](https://img.shields.io/badge/Shipguard%20Blog-22C55E?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.shipguard.dev)
 
 ---
 
-### 🚀 Featured Projects 
+## 🚀 Featured Work
 
-1. Ship Guard  
+### 🛡️ Ship Guard — Engineering Intelligence for Safer Releases
 
 <a href="https://shipguard.dev" target="_blank">
-  <img src="https://shipguard.dev/og-image.png" alt="Ship Guard OG Image" />
+  <img src="https://shipguard.dev/og-image.png" alt="Ship Guard" />
 </a>
 
-**Ship Guard** is a B2B SaaS platform that transforms institutional knowledge into an **active engineering safeguard**.  
-Its *Incident Memory* feature learns from your team’s past failures to deliver **context-aware feedback** on new pull requests — preventing repeat issues before they merge.  
+**Ship Guard** is a B2B SaaS platform that converts **institutional engineering knowledge into automated safeguards**.
 
-**🔗 Live Site:** [shipguard.dev](https://shipguard.dev)  
-**🔗 Doc:** [docs.shipguard.dev](https://docs.shipguard.dev)
+Instead of postmortems living in docs, Ship Guard:
+- learns from **past incidents**
+- detects risky patterns
+- delivers **context-aware feedback directly on pull requests**
 
-**🔗 Blog:** [blog.shipguard.dev](https://blog.shipguard.dev)
+**Outcome:** fewer regressions, faster reviews, safer deployments.
 
+**Highlights**
+- AI-powered *Incident Memory*
+- PR-level risk detection
+- Built for real-world engineering teams
 
-2. Github Wrapped
+🔗 **Product:** https://shipguard.dev  
+🔗 **Docs:** https://docs.shipguard.dev  
+🔗 **Engineering Blog:** https://blog.shipguard.dev
+
+---
+
+### 🎁 GitHub Wrapped — Developer Analytics with Personality
 
 <a href="https://githubdevwrap.vercel.app" target="_blank">
-  <img src="https://githubdevwrap.vercel.app/og-image.png" alt="Github Wrap OG Image" />
+  <img src="https://githubdevwrap.vercel.app/og-image.png" alt="GitHub Wrapped" />
 </a>
-**Github Wrapped** A year-in-review style for developers. Analyze your GitHub activity, visualize your coding habits, and get roasted by AI.
 
-**🔗 Live Site:** [Github Wrapped](https://githubdevwrap.vercel.app)
+A year-in-review experience for developers:
+- analyze GitHub activity
+- visualize coding patterns
+- get *AI-powered insights (and roasts)*
 
-**🔗 Repo Link:* [Repo](https://github.com/eddy1759/devwrapped)
+🔗 **Live:** https://githubdevwrap.vercel.app  
+🔗 **Repo:** https://github.com/eddy1759/devwrapped
+
 ---
 
-### 💡 About Me  
+## 🧠 Engineering Focus
 
-- ⚙️ **Backend-Heavy Full Stack Product Engineer** focused on building **scalable, cloud-native systems** and **AI-powered automation tools** that solve real business problems.  
-- 🧠 Skilled in **Node.js, TypeScript, NestJS, Express, Next.js, Tailwind CSS, PostgreSQL, Docker, AWS, Redis**, and **n8n**, with strong grounding in **DevOps practices, CI/CD, and infrastructure reliability**.  
-- 🚀 I’ve built and shipped production systems across different domain like ecommerce, safety-tech, agrotech, dev-tool, edutech, web3 — all engineered for performance, maintainability, and scale.  
-- 🧩 Passionate about **developer productivity, distributed system design, and automation pipelines** that reduce friction and amplify impact.  
-- 🤝 Open to **collaborating on open-source projects** and **partnering with teams** building high-performance backend or infrastructure products.  
-- 📫 **Contact:** [edetasuquo23@gmail.com](mailto:edetasuquo23@gmail.com)  
+I operate at the intersection of **backend systems, infrastructure, and product engineering**.
+
+**Core Stack**
+- **Backend:** Node.js, TypeScript, NestJS, Express
+- **Frontend:** Next.js, Tailwind CSS
+- **Data:** PostgreSQL, Redis
+- **Infra & DevOps:** Docker, AWS, CI/CD pipelines
+- **Automation:** n8n, event-driven workflows
+- **Architecture:** modular monoliths, service-oriented systems, async pipelines
+
+**What I care about**
+- designing systems that **fail gracefully**
+- reducing operational load through **automation**
+- building platforms that engineers *actually enjoy using*
+
 ---
-🔥 *Building scalable systems, automating workflows, and turning ideas into production-grade products.*
+
+## 🧩 Experience & Impact
+
+- Built and shipped **production-grade systems** across fintech, safety-tech, agrotech, devtools, edutech, and web3
+- Designed APIs and pipelines optimized for **scale, performance, and maintainability**
+- Strong believer in **engineering leverage** — small teams, big impact
+- Comfortable owning projects **end-to-end**: idea → architecture → infra → production
+
+---
+
+## 🤝 Collaboration & Contact
+
+- Open to **open-source collaboration**
+- Interested in **early-stage startups** and **high-ownership engineering teams**
+- Reach me at: **edetasuquo23@gmail.com**
+
+---
+
+🔥 *I build systems that protect teams from failure, automate the boring stuff, and scale with confidence.*
+
 ---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=eddy1759&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage" alt="Edet's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddy1759&langs_count=12&layout=compact&theme=dark&background=000000&hide_border=true" alt="Edet's GitHub stats" /> |
