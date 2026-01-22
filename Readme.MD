@@ -1,11 +1,10 @@
 
 # 👋 Hi, I'm Edet Emmanuel Asuquo  
 
-**Backend-Heavy Full Stack Product Engineer** building scalable, cloud-native systems and AI-powered developer tools.  
-
-Creator of **[Ship Guard](https://shipguard.dev)** — an AI-driven code review assistant for GitHub that helps engineering teams stop shipping the same bugs twice.  
+**Backend-Heavy Full Stack Product Engineer** building scalable, cloud-native systems and AI-powered tools.  
 
 I design, build, and deploy systems that are **secure, fault-tolerant, and automation-first** — from fintech and infrastructure to developer productivity platforms.  
+Open to collaborations, jobs and founding engineer roles.
 
 <img src="https://komarev.com/ghpvc/?username=eddy1759&style=flat-square&color=blue" alt=""/>
 
