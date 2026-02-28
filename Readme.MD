@@ -63,6 +63,27 @@ A year-in-review experience for developers:
 
 ---
 
+### 🎁 System Design Lab — Interactive system design learning — build, simulate, and validate distributed architectures.
+
+<a href="https://system-design-lab-alpha.vercel.app/" target="_blank">
+  <img src="https://i.imgur.com/iDRn0zv.jpeg" alt="System Design Lab" />
+</a>
+
+Design systems like an engineer, not just a theorist:
+
+- 🧩 **Build visually** — drag, connect, and compose distributed systems in real time  
+- ⚙️ **Simulate behavior** — see latency, throughput, scaling, and failure impact instantly  
+- 🚀 **Export to real infra** — generate Docker Compose and Terraform configs from your design  
+- 🧠 **Get AI insights** — analyze architecture decisions, trade-offs, and bottlenecks  
+- 🔥 **Stress-test your system** — uncover weak points before they break in production  
+
+Turn ideas into deployable systems — not just diagrams.
+
+🔗 **Live:** https://system-design-lab-alpha.vercel.app/  
+🔗 **Repo:** https://github.com/eddy1759/system-design-lab
+
+---
+
 ## 🧠 Engineering Focus
 
 I operate at the intersection of **backend systems, infrastructure, and product engineering**.
